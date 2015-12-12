@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'europe/rome'
+TIME_ZONE = 'Europe/Rome'
 
 USE_I18N = True
 
